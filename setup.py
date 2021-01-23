@@ -17,11 +17,11 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="DetVisLib",
-    version="1.0.0",
+    version="1.0.4",
     description="Detections Visualization Library - easy to use library to visualize detections from various object detection frameworks.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/uditvashisht/saral-square",
+    url="https://github.com/Andropogon/DetVisLib",
     author="Jan Gąsienica-Józkowy",
     author_email="jgjozkowy@gmail.com",
     license="MIT",
